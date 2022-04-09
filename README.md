@@ -12,7 +12,7 @@
 <br />
 
 Olá, me chamo Thiago de Souza nick : Winshaw, Sou estudante de cibersegurança. Estudo segurança da informação desde 2015 e sou apaixonado pelo que faço.
-meu objetivo é contribuir com a comunidade e criar portfolio sobre o meu trabalho.
+Meu objetivo é contribuir com a comunidade e criar portfólio sobre o meu trabalho.
 Minhas Especializações:
 ● Ferramentas de Segurança – SIEM QRADAR, Firewall Palo Alto, Zenoss Monitoring, Wireshark Packet Analyzer, IPS e IDS Snort, ePO e DLP 
 McAfee 
