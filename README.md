@@ -24,7 +24,6 @@ McAfee
 ● Mitigação de Incidentes Cibernéticos – NIST e MITRE 
 ● Resposta a Incidentes Cibernéticos – NIST 
 ● Análise de Logs Sistemas Operacionais Windows e Linux 
-● Exposição no simulador “Cyberbit Range” – Cenário real de ataque cibernético: Apache Shutdown 
 ● Familiaridade com Runbooks e fluxos de trabalho corporativos
 ● conhecimento da norma 27001 com implementação
 
