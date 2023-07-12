@@ -4,7 +4,7 @@
 </a>
 </a>
 <a href="https://www.linkedin.com/in/thiago-de-souza-ramos-171819210/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=winshawP.winshawP)
